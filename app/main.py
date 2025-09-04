@@ -12,7 +12,7 @@ def about_me():
         "nome": "guilherme lopes",
         "email": "seuemail@example.com",
         "curso": "Si",
-        "github": "https://github.com/seuusuario",
-        "cidade": "Sua cidade",
+        "github": "https://github.com/guithunder",
+        "cidade": "barbalha",
         "interesses": ["Python", "APIs", "FastAPI", "Tecnologia , meme"]
     }
