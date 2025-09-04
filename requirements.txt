@@ -1,3 +1,4 @@
 fastapi
-unicorn
-uvicorn[standard]
+pydantic
+pydantic-settings
+uvicorn
